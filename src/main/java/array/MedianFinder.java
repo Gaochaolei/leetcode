@@ -45,7 +45,7 @@ public class MedianFinder {
         medianFinder.addNum(2);
         medianFinder.addNum(3);
         medianFinder.addNum(1);
-//        medianFinder.addNum(5);
+        medianFinder.addNum(5);
         System.out.println(medianFinder.findMedian());
     }
 }
